@@ -1,0 +1,10 @@
+torch
+numpy
+transformers
+pandas
+tqdm
+llmcompressor
+datasets
+accelerate
+peft
+bitsandbytes
