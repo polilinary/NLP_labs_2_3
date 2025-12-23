@@ -22,8 +22,8 @@ python compress.py
 ```bash
 python train.py
 ```
-Скачать уже готовые модели: 
-https://huggingface.co/POLILILILILILI/quantized_model
+Скачать уже готовые модели:  
+https://huggingface.co/POLILILILILILI/quantized_model  
 https://huggingface.co/POLILILILILILI/lora
 
 ### Скрипты
