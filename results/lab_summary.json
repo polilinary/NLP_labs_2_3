@@ -1,0 +1,25 @@
+{
+  "models": {
+    "original_model": "Qwen/Qwen3-8B",
+    "quantized_model": "quantized_model/Qwen_Qwen3-8B_FP8",
+    "finetuned_model": "lora"
+  },
+  "compression": {
+    "original_size_bytes": 32794863426,
+    "quantized_size_bytes": 9451770485,
+    "compression_ratio": 3.47
+  },
+  "accuracy": {
+    "original_model": 0.7289,
+    "quantized_model": 0.726,
+    "finetuned_model": 0.726
+  },
+  "performance": {
+    "performance_drop": 0.004
+  },
+  "score": 3.456,
+  "evaluation_config": {
+    "limit_subjects": 10,
+    "limit_prompts": 0.1
+  }
+}
